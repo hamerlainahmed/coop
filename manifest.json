@@ -1,8 +1,9 @@
 {
-    "version": "2.1.6",
-    "release_notes": "- تحديث شكل البرنامج\\n- إضافة تاريخ بداية الاقتطاع قابل للتعديل\\n- إضافة إمكانية التحديث التلقائي للبرنامج",
+    "version": "2.1.7",
+    "release_notes": "حل مشكل توقف التحديث التلقائي.",
     "files": {
-        "CooperativeApp.exe": "8cc24b50d1cb3a1f816abc583eda79df78a3f9583ce6463f7ee603bc4ccc0811",
+        "CooperativeApp.exe": "77b7c050e23262fea1b011800f0683e00194b300afdb48bf3087292c540dc713",
+        "updater.exe": "04696f3b1fec7dcccf2e249069155cabca13826e0f7e8f974daf60d8bfecb918",
         "_internal/api-ms-win-core-console-l1-1-0.dll": "a742b375fc6cb32e17c66f7e677cef59399216ac21c1384de6ec892c2b099a4d",
         "_internal/api-ms-win-core-datetime-l1-1-0.dll": "4e8c54b23d5c0d5b388d7c0182da2e3afc9819073640e83b753f517d5cf77aeb",
         "_internal/api-ms-win-core-debug-l1-1-0.dll": "29354cbe6e808ae1b1c187aafe5f2a66d8cb5b4ed7ef3f830884c7c02171305f",
@@ -44,7 +45,7 @@
         "_internal/api-ms-win-crt-string-l1-1-0.dll": "db897e58b7d327a059db263af2f1be1eff58176e3bcdb82aa801e2d69fd2293c",
         "_internal/api-ms-win-crt-time-l1-1-0.dll": "44705d9b3271d9db307f92c7c2764a98db5819e670897dbfc95beb386a1840bb",
         "_internal/api-ms-win-crt-utility-l1-1-0.dll": "fe4c586d1fc06d9012b2fc9c34aa72b219a939dbb2d9f034763465a7de24fff2",
-        "_internal/base_library.zip": "f9bba769ef56985f2b517c863d9d00cf8e9d32ed3b3507f5f551ab65d5f6079c",
+        "_internal/base_library.zip": "7c490360c4f5ee3a2981a5b7cfc650c4065acb2bd6f658ff8fbc9733ba599fac",
         "_internal/libcrypto-3.dll": "e03dd02fdcfb791981c9962827cfcf495f2a47a514c1526efb57f847a9df514a",
         "_internal/libffi-8.dll": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
         "_internal/libssl-3.dll": "1e4bc0638682bfcbb36f4465d6a2e9944d917a60f05ecc8ddf9e96847e05e13f",
