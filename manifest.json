@@ -2,6 +2,7 @@
     "version": "2.1.8",
     "release_notes": "إمكانية تصدير قائمة المبيعات المسلمة بمعلومات الموظف.",
     "files": {
-        "CooperativeApp.exe": "352df4dc7e26c8bffb59b9d6f87ce3b83d2fbd02d677765038d1a58550a0d3c3"
+        "CooperativeApp.exe": "148d370d5417416fc8985d4365311a33f54d5612e98fb6ca232d30af86eae86c",
+        "updater.exe": "fa73142cf1db5a77b2d0c4b8f3d4bb544ab53796ce1462ae36fec2c5155cad83"
     }
 }
