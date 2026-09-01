@@ -1,0 +1,7 @@
+{
+    "version": "2.1.9",
+    "release_notes": "إصلاح مشكلة صلاحيات التحديث والعودة لنظام المجلد باستخدام ZIP.",
+    "files": {
+        "update.zip": "0a63090d387d24192b98b04e75018dab8519bff22ab1283baacdc2c5cb1a7ade"
+    }
+}
